@@ -1,0 +1,11 @@
+uuid: b5988127-36d8-432c-a002-0227bc7251ae
+langcode: en
+status: true
+dependencies: {  }
+id: override
+label: Default
+weight: 0
+style: null
+size: null
+size_value: null
+protected_property: Default

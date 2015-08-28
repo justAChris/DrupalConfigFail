@@ -1,0 +1,10 @@
+array: {  }
+boolean: true
+exp: !!float 1.2E+34
+float: 3.14159
+float_as_integer: !!float 1
+hex: 12
+int: 99
+octal: 509
+string: string
+string_int: '1'

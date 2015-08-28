@@ -1,0 +1,7 @@
+id: primary
+label: Primary
+weight: 0
+uuid: 81db553b-fbd8-40bf-9a3b-59698ba147f9
+dependencies:
+  config:
+    - config_test.dynamic.secondary
